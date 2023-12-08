@@ -1,4 +1,6 @@
 HOUSE PRICE PREDICTION MODEL 
+
+
 In house price prediction model we predict the price of house on the certain location with the certain specificaltion 
 It help the coustomer or the person who want to buy the house in bengalurru city by knowing the average price of the 
 house at that location.
